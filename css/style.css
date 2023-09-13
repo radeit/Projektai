@@ -1,0 +1,589 @@
+body{
+    background-color: #e2eef0;
+}
+
+.haha h1 {
+
+width: 447px;
+height: 80px;
+color: #373737;
+font-family: "Aller - Light";
+font-size: 38px;
+font-weight: 300;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+text-align: left;
+margin-left: 40px;
+margin-top: 40px;
+overflow: hidden;
+
+}
+
+.haha .abc {
+    display: flex;
+    position: relative;
+}
+
+.haha .abc img {
+    margin-top: 70px;
+        margin-left: 40px;
+        float: left;
+        width: 47px;
+        background-color: #0073be;
+height: 47px;
+    }
+    
+    .haha .abc h2 {
+    margin-left: 260px;
+        margin-top: 80px;
+        width: 119px;
+height: 24px;
+color: #282828;
+font-family: "Arial MT";
+font-size: 20px;
+letter-spacing: normal;
+line-height: 24px;
+text-align: left;
+}
+
+.haha .abc p {
+
+    width: 242px;
+    height: 88px;
+color: #585858;
+font-family: "Arial MT";
+font-size: 12px;
+font-style: normal;
+letter-spacing: normal;
+line-height: 18px;
+text-align: left;
+margin-top: 110px;
+position: absolute;
+margin-left: 98px;
+}
+
+.haha .def {
+    display: flex;
+    margin-left: 285px;
+    position: absolute;
+margin-top: -120px;
+}
+
+.haha .def img {
+    margin-top: 70px;
+        margin-left: 40px;
+        float: left;
+        width: 47px;
+height: 47px;
+    }
+    
+    .haha .def h2 {
+    margin-left: 260px;
+        margin-top: 80px;
+        width: 119px;
+height: 24px;
+color: #282828;
+font-family: "Arial MT";
+font-size: 20px;
+letter-spacing: normal;
+line-height: 24px;
+text-align: left;
+}
+
+.haha .def p {
+
+    width: 242px;
+    height: 88px;
+color: #585858;
+font-family: "Arial MT";
+font-size: 12px;
+font-style: normal;
+letter-spacing: normal;
+line-height: 18px;
+text-align: left;
+margin-top: 110px;
+position: absolute;
+margin-left: 98px;
+}
+
+.haha .hij {
+    display: flex;
+    margin-left: 570px;
+    position: absolute;
+margin-top: -120px;
+}
+
+.haha .hij img {
+    margin-top: 70px;
+        margin-left: 40px;
+        float: left;
+        width: 47px;
+height: 47px;
+    }
+    
+    .haha .hij h2 {
+    margin-left: 260px;
+        margin-top: 80px;
+        width: 119px;
+height: 24px;
+color: #282828;
+font-family: "Arial MT";
+font-size: 20px;
+letter-spacing: normal;
+line-height: 24px;
+text-align: left;
+}
+
+.haha .hij p {
+
+    width: 242px;
+    height: 88px;
+color: #585858;
+font-family: "Arial MT";
+font-size: 12px;
+font-style: normal;
+letter-spacing: normal;
+line-height: 18px;
+text-align: left;
+margin-top: 110px;
+position: absolute;
+margin-left: 98px;
+}
+
+
+.haha p {
+
+width: 457px;
+height: 68px;
+color: #373737;
+font-family: "Arial MT";
+font-size: 14px;
+font-style: normal;
+letter-spacing: normal;
+line-height: 24px;
+text-align: left;
+margin-left: 40px;
+margin-top: 20px;
+overflow: hidden;
+
+}
+
+.haha img {
+margin-top: 40px;
+float: right;
+margin-right:-250px ;
+
+}
+
+
+
+.logo{
+    width: 228px;
+    height: 44px;
+    color: #373737;
+    font-family: "Aller - Light";
+    font-size: 36px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: -1.8px;
+    line-height: normal;
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 238px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    float: right;
+    margin-right: 300px;
+    position: relative;
+    bottom: 40px;
+}
+
+li {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #373737;
+    font-family: Candara;
+    font-size: 14px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    text-transform: uppercase;
+
+}
+
+.haha{
+    width: 940px;
+    height: 500px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    background-image: linear-gradient(to top, #ffffff 0%, #f6f6f6 100%);
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+
+
+
+
+.article-block{
+    width: 941px;
+    height: 574px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    background-image: linear-gradient(to top, #ffffff 0%, #f6f6f6 100%);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* fish text header */
+h1{
+    width: 236px;
+    height: 24px;
+    color: #373737;
+    font-family: "Arial MT";
+    font-size: 16px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.image-fish{
+    width: 205px;
+    height: 106px;
+    background-color: rgba(0, 0, 0, 0);
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.fish-text{
+    width: 398px;
+    height: 106px;
+    color: #585858;
+    font-family: "Arial MT";
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+    overflow: hidden; /* Clear the float */
+    margin-top: 15px;
+}
+
+.fish-text-bottom{
+    width: 607px;
+    height: 52px;
+    color: #585858;
+    font-family: "Arial MT";
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.devider-image{
+    position: relative;
+    bottom: 242px;
+    left: 630px;
+    width: 18px;
+    height: 217px;
+    background-color: rgba(0, 0, 0, 0);
+    margin: 0%;
+}
+
+.long-devider-image{
+    position: relative;
+    top: -220px;
+    width: 602px;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0);
+    margin-left: 20px;
+}
+
+.portfolio-block{
+    position: relative;
+    bottom: 200px;
+    width: 294px;
+    height: 267px;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+
+h2{
+    width: 120px;
+    height: 24px;
+    color: #373737;
+    font-family: "Arial MT";
+    font-size: 16px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+}
+
+.porfolio-image{
+    width: 277px;
+    height: 106px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.portfolio-text{
+    width: 294px;
+    height: 88px;
+    color: #585858;
+    font-family: "Arial MT";
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+}
+
+.hyperlink-portfolio{
+    position: relative;
+    width: 102px;
+    height: 18px;
+    color: #007dcf;
+    font-family: "Arial MT";
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+}
+
+.services-block{
+    position: relative;
+    bottom: 477px;
+    left: 345px;
+    width: 294px;
+    height: 267px;
+}
+
+.marbles-image{
+    width: 277px;
+    height: 106px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+h3{
+    width: 124px;
+    height: 24px;
+    color: #373737;
+    font-family: "Arial MT";
+    font-size: 16px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+}
+
+.sidebar-props{
+    position: relative;
+    left: 888px;
+    bottom: 570px;
+    height: 505px;
+    width: 293px;
+}
+
+h3{
+    width: 124px;
+    height: 24px;
+    color: #373737;
+    font-family: "Arial MT";
+    font-size: 16px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+}
+
+.post-caption-1{
+    position: relative;
+    bottom: 90px;
+    left: 70px;
+    width: 223px;
+    height: 35px;
+    color: #0073be;
+    font-family: "Arial MT";
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+    
+}
+.date-1{
+    position: relative;
+    bottom: 75px;
+    left: 70px;
+    color: #585858;
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+.notebook{
+    position: relative;
+    width: 62px;
+    height: 62px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.post-caption-2{
+    position: relative;
+    bottom: 143px;
+    left: 70px;
+    width: 223px;
+    height: 35px;
+    color: #0073be;
+    font-family: "Arial MT";
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+}
+.date-2{
+    position: relative;
+    bottom: 128px;
+    left: 70px;
+    color: #585858;
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+.envelopes{
+    position: relative;
+    bottom: 50px;
+    right: 10px;
+    height: 62px;
+    width: 75px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.post-caption-3{
+    position: relative;
+    bottom: 183px;
+    left: 70px;
+    width: 223px;
+    height: 35px;
+    color: #0073be;
+    font-family: "Arial MT";
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+}
+.date-3{
+    position: relative;
+    bottom: 168px;
+    left: 70px;
+    color: #585858;
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+.threads{
+    position: relative;
+    bottom: 100px;
+    right: 9px;
+    height: 57px;
+    width: 80px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+h4{
+    position: relative;
+    bottom: 140px;
+    width: 108px;
+    height: 24px;
+    color: #373737;
+    font-family: "Arial MT";
+    font-size: 16px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+}
+
+.bracket-img{
+    position: relative;
+    bottom: 150px;
+    width: 14px;
+    height: 14px;
+}
+
+.feedback-text{
+    position: relative;
+    bottom: 150px;
+    width: 291px;
+    height: 70px;
+    color: #373737;
+    font-family: "Arial MT";
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+}
+
+.doted-devider{
+    position: relative;
+    bottom: 155px;
+    width: 299px;
+    height: 18px;
+    color: #373737;
+    font-family: "Arial MT";
+    font-size: 11px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+}
+.profile-picture{
+    position: relative;
+    bottom: 150px;
+    width: 56px;
+    height: 53px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.profile-text{
+    position: relative;
+    bottom: 210px;
+    left: 60px;
+    width: 104px;
+    height: 35px;
+    color: #373737;
+    font-family: "Arial MT";
+    font-size: 11px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: top;
+}
+
+.profile{
+    position: relative;
+    top: 10px;
+}
+
+a{
+    align-self: center;
+}
