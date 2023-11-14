@@ -1,1 +1,1 @@
-# Personal-website
+# Technologiju-egzaminas
